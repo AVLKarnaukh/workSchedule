@@ -1,6 +1,7 @@
+package ru.netology.services.WorkScheduleService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.netology.services.WorkScheduleService;
+//import ru.netology.services.WorkScheduleService;
 
 public class WorkScheduleServiceTest {
     @Test
